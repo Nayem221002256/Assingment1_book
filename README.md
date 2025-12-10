@@ -1,32 +1,27 @@
-## **Assignment 1: Book Class**
+# Assignment 1: Book Class
 
-### Requirements:
-- Create a `Book` class with:
+### Requirements
+- Create a class `Book` with:
   - `title`
   - `author`
   - `price`
-- Add constructor
-- Method: `discountedPrice()`
-- Create 2 objects and print details
+- Add constructor  
+- Add method: `discountedPrice()`  
+- Create 2 book objects  
+- Print book details and discounted price  
 
-### Code Location:
-`assignment1_book/main.dart`
+# Employee Management System – Dart OOP Assignment
 
----
+This project demonstrates **Object-Oriented Programming (OOP)** concepts in Dart using:
+- Classes & Objects  
+- Inheritance  
+- Method Overriding  
 
-## **Assignment 2: Employee Inheritance**
+The system includes an `Employee` base class and two subclasses: `Manager` and `Developer`.
 
-### Requirements:
-- Base class: `Employee`
-- Subclasses:
-  - `Manager` → adds `department`
-  - `Developer` → adds `programmingLanguage`
-- Method to display information
-- Create one Manager & one Developer object
-
-### Code Location:
-`assignment2_employee/main.dart`
-
-## Author  
-**Md. Nayem Ibne Nur**  
- – Flutter Assignment  
+## Features
+ Base class: **Employee**  
+ Subclass: **Manager** (adds *department*)  
+ Subclass: **Developer** (adds *programmingLanguage*)  
+ Method to display employee details  
+ Object creation & output display 
