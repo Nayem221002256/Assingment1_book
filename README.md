@@ -10,7 +10,7 @@
 - Create 2 book objects  
 - Print book details and discounted price  
 
-# Employee Management System – Dart OOP Assignment
+# Employee Management System (Dart OOP Assignment)
 
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in Dart using:
 - Classes & Objects  
